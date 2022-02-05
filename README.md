@@ -1,6 +1,8 @@
 # Getting started with **Oracle Linux** [oracle] | [download] | [virtualbox]
 
-**Below, you will find, a detailed walkthrough installation of Oracle Linux in Virtualbox.  This was done using VirtualBox version 6.1.32, and Oracle Linux 8.5 on February 4, 2022. Please [email] me with any questions, concerns, or feedback. `Please note: this is with absolute beginners in mind.`**
+**Below, you will find, a detailed walkthrough installation of Oracle Linux in Virtualbox.  This was done using VirtualBox version 6.1.32, and Oracle Linux 8.5 on February 4, 2022. Please [email] me with any questions, concerns, or feedback.** 
+
+`Please note:` *this is with absolute beginners in mind*.
 
 <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_L22k5bcWLXxB9bp446P1u3oCoxIAZj63urWqAOvr2_Q0yW9u1OTBHsX-269NnMP_cQc&usqp=CAU" alt="CyberWar" width="600" height="300">
 
@@ -10,9 +12,9 @@
 
 Locate the appropriate Oracle Linux ISO, [download], for your setup.
 
-Download the latest [virtualbox] binary. `(Skip if you already have Virtualbox)`
+Download the latest [virtualbox] binary. _**(Skip if you already have Virtualbox)**_
 
-Install Virtualbox `(Again, skip if you already have)`
+Install Virtualbox _**(Again, skip if you already have)**_
 
 ---
 <br />
@@ -29,13 +31,13 @@ I'll be using `expert mode` in my installation.  Below you may observe the follo
 
 ## Name and Operating System
 - Name: Oracle
-    - `Name this whatever you like`
+    - Name this whatever you like
 - Machine Folder: D:\VMs
-    - `Store your virtual machine in a location that has available space.  In my situation I use a dedicated solid state drive for virtual machines, which is, what my D:\ is in this scenario.`
+    - Store your virtual machine in a location that has available space.  In my situation I use a dedicated solid state drive for virtual machines, which is, what my D:\ is in this scenario.
 - Type: Linux
-    - `This is a Linux distro`
+    - This is a Linux distro
 - Version: Oracle(64-bit)
-    - `This will work if you select other choices; however, Oracle is the version so I do suggest using it.`
+    - This will work if you select other choices; however, Oracle is the version so I do suggest using it.
 
 Memory Size
 - Select the amount of memory you are able to dedicate to the virtual machine.  In my case I've selected `8192 mb` which is about *8gb* of memory.
