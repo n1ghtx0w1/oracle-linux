@@ -124,7 +124,7 @@ Next navigate over to the **Processor** tab, as seen below.
 </p>
 <br />
 
-I am able to allocate 4 cores to this virtual machine.  You will need to only allocate the resources available.  Please read the documentation regarding any questions or concerns here [Oracle].  I make no changes to the execution cap for my use case, and leave the extended features on default settins.  If your default settings are different, again, please visit Oracle to locate settings partiuclar to your environment.
+I am able to allocate 4 cores to this virtual machine. You will need to decide on what **CPU** resources to allocate to your virtual machine.  Please read the documentation regarding any questions or concerns here [Oracle]. I make no changes to the execution cap for my use case, and leave the extended features on default settings. If your default settings are different, again, please visit Oracle to locate settings partiuclar to your environment.
 
 <br />
 <p align="center">
