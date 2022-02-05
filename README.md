@@ -21,13 +21,13 @@ Install Virtualbox _**(Again, skip if you already have)**_
 
 ## Install Oracle Linux in VirtualBox:
 
-You'll want to begin by opening up Virtualbox.  Click `new` as outlined with a `red circle` below.
+You'll want to begin by opening up Virtualbox.  Click **new** as outlined with a *red circle* below.
 
 <img src="assets/img/1.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
 
 <br />
 
-I'll be using `expert mode` in my installation.  Below you may observe the following:
+I'll be using **Expert Mode** in this installation.
 
 ## Name and Operating System
 - Name: Oracle
@@ -40,12 +40,12 @@ I'll be using `expert mode` in my installation.  Below you may observe the follo
     - This will work if you select other choices; however, Oracle is the version so I do suggest using it.
 
 Memory Size
-- Select the amount of memory you are able to dedicate to the virtual machine.  In my case I've selected `8192 mb` which is about *8gb* of memory.
+- Select the amount of memory you are able to dedicate to the virtual machine.  In my case I've selected **8192 mb** which is about *8gb* of memory.
 
 Hard Disk
-- For the purpose of this walkthrough, I am, *`creating a new virtual disk`*.
+- For the purpose of this walkthrough, I am, *creating a new virtual disk*.
 
-Click `Create` as outlined in red below.
+Click **Create** as outlined in red below.
 
 <img src="assets/img/2.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
 
@@ -58,17 +58,17 @@ File Location:
 
 File Size:
 - Set the amount that you are able to allocate to your virtual machine.
-    - I select `200gb`, but this is for my own use case. _**`Don't`** let this determine your selection_.
+    - I selected to use 200gb, but this is for my own use case. _**Don't** let this determine your selection.
 
 Hard Disk File Type
-- I'm usinng `VDI`
+- I'm usinng **VDI**
     - *This may vary for your use case. Refer to documentation regarding questions/concerns*.
 
 Storage on physical hard disk
-- I'll be using `Dynamically Allocated`
-    - If you have a use case for `Fixed Size` then use that.
+- I'll be using **Dynamically Allocated**
+    - If you have a use case for *Fixed Size* then use that.
 
-Continue by clicking by clicking `Create` after reviewing the information, and ensuring the settings to be satisfactory.
+Continue by clicking by clicking **Create** after reviewing the information, and ensuring the settings to be satisfactory.
 
 <img src="assets/img/3.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
 
