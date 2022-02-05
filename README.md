@@ -1,4 +1,4 @@
-# Getting started with **Oracle Linux** [oracle] | [download] | [virtualbox]
+# Getting started with **Oracle Linux** [Oracle] | [ISO Download] | [Virtualbox Download]
 
 **Below, you will find, a detailed walkthrough installation of Oracle Linux in Virtualbox.  This was done using VirtualBox version 6.1.32, and Oracle Linux 8.5 on February 4, 2022. Please [email] me with any questions, concerns, or feedback.** 
 
@@ -34,6 +34,8 @@ You'll want to begin by opening up Virtualbox.  Click **new** as outlined with a
 
 I'll be using **Expert Mode** in this installation.
 
+---
+
 ## Name and Operating System
 - Name: Oracle
     - Name this whatever you like
@@ -57,6 +59,8 @@ Click **Create** as outlined in red below.
 <img src="assets/img/2.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
 </p>
 <br />
+
+---
 
 ## Create Virtual Hard Disk
 
@@ -84,8 +88,54 @@ Continue by clicking by clicking **Create** after reviewing the information, and
 
 ---
 
-[oracle]: https://www.oracle.com/linux/
-[download]: https://yum.oracle.com/oracle-linux-isos.html
-[virtualbox]: https://www.virtualbox.org/wiki/Downloads
+## Settings
+
+Clicking the gear icon with *"Settings"* under, circled in the photo below in red, will open up the settings of your virtual machine.
+
+<br />
+<p align="center">
+<img src="assets/img/4.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+We'll start with going into **System** as circled in the image below.
+
+<br />
+<p align="center">
+<img src="assets/img/5.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+I like to uncheck floppy and move it to the bottom of the boot order.  It's really just a preference, and not necessary.
+
+Do ensure the memory is what you set earlier, or modify it here while in the **Motherboard** tab.
+
+<br />
+<p align="center">
+<img src="assets/img/7.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Next navigate over to the **Processor** tab, as seen below.
+
+<br />
+<p align="center">
+<img src="assets/img/8.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+I am able to allocate 4 cores to this virtual machine.  You will need to only allocate the resources available.  Please read the documentation regarding any questions or concerns here [Oracle].  I make no changes to the execution cap for my use case, and leave the extended features on default settins.  If your default settings are different, again, please visit Oracle to locate settings partiuclar to your environment.
+
+<br />
+<p align="center">
+<img src="assets/img/9.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+---
+
+[Oracle]: https://www.oracle.com/linux/
+[ISO Download]: https://yum.oracle.com/oracle-linux-isos.html
+[Virtualbox Download]: https://www.virtualbox.org/wiki/Downloads
 [email]: attacktheosi@gmail.com
 
