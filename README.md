@@ -4,7 +4,10 @@
 
 `Please note:` *this is with absolute beginners in mind*.
 
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_L22k5bcWLXxB9bp446P1u3oCoxIAZj63urWqAOvr2_Q0yW9u1OTBHsX-269NnMP_cQc&usqp=CAU" alt="CyberWar" width="600" height="300">
+
+<p align="center">
+  <img width="600" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_L22k5bcWLXxB9bp446P1u3oCoxIAZj63urWqAOvr2_Q0yW9u1OTBHsX-269NnMP_cQc&usqp=CAU">
+</p>
 
 <br />
 
@@ -23,7 +26,9 @@ Install Virtualbox _**(Again, skip if you already have)**_
 
 You'll want to begin by opening up Virtualbox.  Click **new** as outlined with a *red circle* below.
 
+<p align="center">
 <img src="assets/img/1.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
 
 <br />
 
@@ -47,8 +52,10 @@ Hard Disk
 
 Click **Create** as outlined in red below.
 
-<img src="assets/img/2.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
 
+<p align="center">
+<img src="assets/img/2.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
 <br />
 
 ## Create Virtual Hard Disk
@@ -58,7 +65,7 @@ File Location:
 
 File Size:
 - Set the amount that you are able to allocate to your virtual machine.
-    - I selected to use 200gb, but this is for my own use case. _**Don't** let this determine your selection.
+    - I selected to use 200gb, but this is for my own use case. **Don't** let this determine your selection.
 
 Hard Disk File Type
 - I'm usinng **VDI**
@@ -70,8 +77,9 @@ Storage on physical hard disk
 
 Continue by clicking by clicking **Create** after reviewing the information, and ensuring the settings to be satisfactory.
 
+<p align="center">
 <img src="assets/img/3.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
-
+</p>
 <br />
 
 ---
