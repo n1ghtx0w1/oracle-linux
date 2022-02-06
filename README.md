@@ -1,6 +1,7 @@
-# Getting started with **Oracle Linux** [Oracle] | [ISO Download] | [Virtualbox Download]
+# Getting started with **Oracle Linux** 
+[Oracle] | [ISO Download] | [Virtualbox Download]
 
-**Below, you will find, a detailed walkthrough installation of Oracle Linux in Virtualbox.  This was done using VirtualBox version 6.1.32, and Oracle Linux 8.5 on February 4, 2022. Please [email] me with any questions, concerns, or feedback.** 
+**Below, you will find a detailed walkthrough installation of Oracle Linux in Virtualbox.  This was done using VirtualBox version 6.1.32, and Oracle Linux 8.5 on February 4, 2022. Please [email] me with any questions, concerns, or feedback.** 
 
 `Please note:` *this is with absolute beginners in mind*.
 
@@ -40,7 +41,7 @@ I'll be using **Expert Mode** in this installation.
 - Name: Oracle
     - Name this whatever you like
 - Machine Folder: D:\VMs
-    - Store your virtual machine in a location that has available space.  In my situation I use a dedicated solid state drive for virtual machines, which is, what my D:\ is in this scenario.
+    - Store your virtual machine in a location that has available space.  In my situation I use a dedicated solid state drive for virtual machines, which is, my D:\ is in this scenario.
 - Type: Linux
     - This is a Linux distro
 - Version: Oracle(64-bit)
@@ -72,7 +73,7 @@ File Size:
     - I selected to use 200gb, but this is for my own use case. **Don't** let this determine your selection.
 
 Hard Disk File Type
-- I'm usinng **VDI**
+- I'm using **VDI**
     - *This may vary for your use case. Refer to documentation regarding questions/concerns*.
 
 Storage on physical hard disk
@@ -98,6 +99,7 @@ Clicking the gear icon with *"Settings"* under, circled in the photo below in re
 </p>
 <br />
 
+## System
 We'll start with going into **System** as circled in the image below.
 
 <br />
@@ -106,7 +108,7 @@ We'll start with going into **System** as circled in the image below.
 </p>
 <br />
 
-I like to uncheck floppy and move it to the bottom of the boot order.  It's really just a preference, and not necessary.
+I like to uncheck the floppy and move it to the bottom of the boot order.  It's really just a preference, and not necessary.
 
 Do ensure the memory is what you set earlier, or modify it here while in the **Motherboard** tab.
 
@@ -124,13 +126,90 @@ Next navigate over to the **Processor** tab, as seen below.
 </p>
 <br />
 
-I am able to allocate 4 cores to this virtual machine. You will need to decide on what **CPU** resources to allocate to your virtual machine.  Please read the documentation regarding any questions or concerns here [Oracle]. I make no changes to the execution cap for my use case, and leave the extended features on default settings. If your default settings are different, again, please visit Oracle to locate settings partiuclar to your environment.
+I'm able to allocate 4 cores to this virtual machine. You will need to decide on what **CPU** resources to allocate to your virtual machine.  Please read the documentation regarding any questions or concerns here [Oracle]. I make no changes to the execution cap for my use case, and leave the extended features on default settings. If your default settings are different, again, please visit Oracle to locate settings partiuclar to your environment.
 
 <br />
 <p align="center">
 <img src="assets/img/9.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
 </p>
 <br />
+
+## Display 
+Next we'll navigate over to the **Display** settings, which I’ve circled in red below.
+
+<br />
+<p align="center">
+<img src="assets/img/10.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+**Screen**
+- Video Memory
+    - I set it to maximum, but you need to determine the graphic memory resources you wish to allocate.
+- Monitor Count
+    - I have dual displays, but only utilize 1 for my virtual machine.  Set this accordingly.
+- Scale Factor
+    - `no changes`
+- Graphics Controller
+    - You may consider changing this option.
+- Acceleration
+    - You could enable 3d acceleration.
+
+Remote Display
+- `no changes`
+
+Recording
+- `no changes`
+
+<br />
+<p align="center">
+<img src="assets/img/11.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+## Storage
+
+- Controller IDE
+
+- Controller SATA
+
+- Attributes
+
+<br />
+<p align="center">
+<img src="assets/img/12.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+**Controller IDE**
+
+- Empty Disc
+    - Click the empty disc icon to highlight the item as seen below.
+
+<br />
+<p align="center">
+<img src="assets/img/13.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+- Attributes
+    - Select the disc icon to insert the ISO image you downloaded from [Iso Download].
+        - Use the drop down menu to navigate to the location where you saved the ISO image.
+
+<br />
+<p align="center">
+<img src="assets/img/14.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+You should observe the ISO image populated into the **Controller IDE** now.
+
+<br />
+<p align="center">
+<img src="assets/img/15.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
 
 ---
 
