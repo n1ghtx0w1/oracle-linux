@@ -528,6 +528,14 @@ After selecting your options you are done, and ready to further use Oracle Linux
 </p>
 <br />
 
+Oracle Linux provides **Getting Started Videos**. This content can later be found in **Help**.
+
+<br />
+<p align="center">
+<img src="assets/img/55.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
 ---
 
 [Oracle]: https://www.oracle.com/linux/
