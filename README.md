@@ -14,9 +14,9 @@
 
 ## Start by downloading the tools
 
-Locate the appropriate Oracle Linux ISO, [download], for your setup.
+Locate the appropriate Oracle Linux ISO, [Iso Download], for your setup.
 
-Download the latest [virtualbox] binary. _**(Skip if you already have Virtualbox)**_
+Download the latest [Virtualbox Download] binary. _**(Skip if you already have Virtualbox)**_
 
 Install Virtualbox _**(Again, skip if you already have)**_
 
@@ -38,19 +38,19 @@ I'll be using **Expert Mode** in this installation.
 ---
 
 ## Name and Operating System
-- Name: Oracle
+- **Name:** Oracle
     - Name this whatever you like
-- Machine Folder: D:\VMs
+- **Machine Folder:** D:\VMs
     - Store your virtual machine in a location that has available space.  In my situation I use a dedicated solid state drive for virtual machines, which is, my D:\ is in this scenario.
-- Type: Linux
+- **Type:** Linux
     - This is a Linux distro
-- Version: Oracle(64-bit)
+- **Version:** Oracle(64-bit)
     - This will work if you select other choices; however, Oracle is the version so I do suggest using it.
 
-Memory Size
+**Memory Size**
 - Select the amount of memory you are able to dedicate to the virtual machine.  In my case I've selected **8192 mb** which is about *8gb* of memory.
 
-Hard Disk
+**Hard Disk**
 - For the purpose of this walkthrough, I am, *creating a new virtual disk*.
 
 Click **Create** as outlined in red below.
@@ -65,18 +65,18 @@ Click **Create** as outlined in red below.
 
 ## Create Virtual Hard Disk
 
-File Location:
+**File Location:**
 - Ensure this matches the location you would like to store the `virtual disk`.
 
-File Size:
+**File Size:**
 - Set the amount that you are able to allocate to your virtual machine.
     - I selected to use 200gb, but this is for my own use case. **Don't** let this determine your selection.
 
-Hard Disk File Type
+**Hard Disk File Type**
 - I'm using **VDI**
     - *This may vary for your use case. Refer to documentation regarding questions/concerns*.
 
-Storage on physical hard disk
+**Storage on physical hard disk**
 - I'll be using **Dynamically Allocated**
     - If you have a use case for *Fixed Size* then use that.
 
