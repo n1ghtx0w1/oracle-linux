@@ -28,7 +28,7 @@ Install Virtualbox _**(Again, skip if you already have)**_
 You'll want to begin by opening up Virtualbox.  Click **new** as outlined with a *red circle* below.
 
 <p align="center">
-<img src="assets/img/1.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/1.png" alt="linux" width="600" height="300"/> 
 </p>
 
 <br />
@@ -57,7 +57,7 @@ Click **Create** as outlined in red below.
 
 
 <p align="center">
-<img src="assets/img/2.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/2.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -83,7 +83,7 @@ Click **Create** as outlined in red below.
 Continue by clicking by clicking **Create** after reviewing the information, and ensuring the settings to be satisfactory.
 
 <p align="center">
-<img src="assets/img/3.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/3.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -95,7 +95,7 @@ Clicking the gear icon with *"Settings"* under, circled in the photo below in re
 
 <br />
 <p align="center">
-<img src="assets/img/4.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/4.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -104,7 +104,7 @@ We'll start with going into **System** as circled in the image below.
 
 <br />
 <p align="center">
-<img src="assets/img/5.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/5.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -114,7 +114,7 @@ Do ensure the memory is what you set earlier, or modify it here while in the **M
 
 <br />
 <p align="center">
-<img src="assets/img/7.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/7.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -122,7 +122,7 @@ Next navigate over to the **Processor** tab, as seen below.
 
 <br />
 <p align="center">
-<img src="assets/img/8.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/8.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -130,7 +130,7 @@ I'm able to allocate 4 cores to this virtual machine. You will need to decide on
 
 <br />
 <p align="center">
-<img src="assets/img/9.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/9.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Next we'll navigate over to the **Display** settings, which I’ve circled in re
 
 <br />
 <p align="center">
-<img src="assets/img/10.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/10.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -163,7 +163,7 @@ Recording
 
 <br />
 <p align="center">
-<img src="assets/img/11.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/11.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -177,7 +177,7 @@ Recording
 
 <br />
 <p align="center">
-<img src="assets/img/12.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/12.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -188,7 +188,7 @@ Recording
 
 <br />
 <p align="center">
-<img src="assets/img/13.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/13.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -198,7 +198,7 @@ Recording
 
 <br />
 <p align="center">
-<img src="assets/img/14.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/14.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -206,7 +206,7 @@ You should observe the ISO image populated into the **Controller IDE** now.
 
 <br />
 <p align="center">
-<img src="assets/img/15.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/15.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -216,7 +216,7 @@ You may need to adjust this, but remember **wifi** will not be accessible using 
 
 <br />
 <p align="center">
-<img src="assets/img/16.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/16.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -224,7 +224,7 @@ From here I will select **General** on the left, and **Ok** at the bottom to con
 
 <br />
 <p align="center">
-<img src="assets/img/18.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/18.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -236,7 +236,7 @@ Click **Start** at the top to start the virtual machine, and begin our installat
 
 <br />
 <p align="center">
-<img src="assets/img/19.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/19.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -244,7 +244,7 @@ Install Oracle Linux 8.5.0
 
 <br />
 <p align="center">
-<img src="assets/img/20.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/20.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -252,7 +252,7 @@ You should see the installer initialize.
 
 <br />
 <p align="center">
-<img src="assets/img/21.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/21.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -264,7 +264,7 @@ Select your language, and **Continue** as circled in the image below.
 
 <br />
 <p align="center">
-<img src="assets/img/22.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/22.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -274,7 +274,7 @@ We'll navigate some of these options to set up for our use case.
 
 <br />
 <p align="center">
-<img src="assets/img/23.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/23.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -282,7 +282,7 @@ Starting here with **Root Password**.
 
 <br />
 <p align="center">
-<img src="assets/img/24.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/24.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -290,7 +290,7 @@ Make sure to create a strong password.
 
 <br />
 <p align="center">
-<img src="assets/img/25.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/25.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -298,7 +298,7 @@ Next **Software Selection**.
 
 <br />
 <p align="center">
-<img src="assets/img/26.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/26.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -306,7 +306,7 @@ For testing purposes I'm just doing **workstation**, but feel free to experiment
 
 <br />
 <p align="center">
-<img src="assets/img/27.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/27.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -314,7 +314,7 @@ After making your selections, select **Done** as shown in the image below.
 
 <br />
 <p align="center">
-<img src="assets/img/29.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/29.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -322,7 +322,7 @@ Then onto **Installation Destination**.
 
 <br />
 <p align="center">
-<img src="assets/img/30.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/30.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -330,7 +330,7 @@ You'll want to make sure that the hard disk selected is blue and has the **check
 
 <br />
 <p align="center">
-<img src="assets/img/31.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/31.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -338,7 +338,7 @@ Then select **Done**.
 
 <br />
 <p align="center">
-<img src="assets/img/32.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/32.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -346,7 +346,7 @@ Next navigate over to **Security Policy**.
 
 <br />
 <p align="center">
-<img src="assets/img/33.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/33.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -354,7 +354,7 @@ Here you can select a **security policy**.
 
 <br />
 <p align="center">
-<img src="assets/img/34.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/34.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -362,7 +362,7 @@ For now I will select **OFF** at **Apply security policy**.
 
 <br />
 <p align="center">
-<img src="assets/img/35.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/35.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -370,7 +370,7 @@ For now I will select **OFF** at **Apply security policy**.
 
 <br />
 <p align="center">
-<img src="assets/img/36.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/36.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -378,7 +378,7 @@ Make sure to enable this option circled below by selecting **ON** for ethernet. 
 
 <br />
 <p align="center">
-<img src="assets/img/37.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/37.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -386,7 +386,7 @@ Then select **Done**.
 
 <br />
 <p align="center">
-<img src="assets/img/38.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/38.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -398,7 +398,7 @@ It's time to begin the installation, when you are done going through the selecti
 
 <br />
 <p align="center">
-<img src="assets/img/39.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/39.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -406,7 +406,7 @@ This will take some time depending on the choices you made prior. You will want 
 
 <br />
 <p align="center">
-<img src="assets/img/40.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/40.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -420,7 +420,7 @@ We'll go into **Licensing** first.
 
 <br />
 <p align="center">
-<img src="assets/img/41.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/41.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -428,7 +428,7 @@ You'll need to accept the agreement before proceeding. You may wish to read the 
 
 <br />
 <p align="center">
-<img src="assets/img/42.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/42.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -436,7 +436,7 @@ Select **Done** to exit the licensing.
 
 <br />
 <p align="center">
-<img src="assets/img/43.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/43.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -444,7 +444,7 @@ Next we will select **User Creation**.
 
 <br />
 <p align="center">
-<img src="assets/img/44.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/44.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -454,7 +454,7 @@ Select **Done** as circled below when finished.
 
 <br />
 <p align="center">
-<img src="assets/img/45.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/45.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -462,7 +462,7 @@ Now **Finish Configuration**.
 
 <br />
 <p align="center">
-<img src="assets/img/46.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/46.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -474,13 +474,13 @@ Login with the user you created.
 
 <br />
 <p align="center">
-<img src="assets/img/47.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/47.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
 <br />
 <p align="center">
-<img src="assets/img/48.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/48.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -488,7 +488,7 @@ You should be greeted by the desktop environment, if you selected a *GUI* instal
 
 <br />
 <p align="center">
-<img src="assets/img/49.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/49.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -496,13 +496,13 @@ The gnome-initial-setup may also appear depending on your choices.
 
 <br />
 <p align="center">
-<img src="assets/img/50.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/50.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
 <br />
 <p align="center">
-<img src="assets/img/51.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/51.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -510,13 +510,13 @@ Highlighted in **yellow** here, I show that, I turn off location services. This 
 
 <br />
 <p align="center">
-<img src="assets/img/52.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/52.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
 <br />
 <p align="center">
-<img src="assets/img/53.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/53.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -524,7 +524,7 @@ After selecting your options you are done, and ready to further use Oracle Linux
 
 <br />
 <p align="center">
-<img src="assets/img/54.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/54.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
@@ -532,7 +532,7 @@ Oracle Linux provides **Getting Started Videos**. This content can later be foun
 
 <br />
 <p align="center">
-<img src="assets/img/55.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+<img src="assets/img/55.png" alt="linux" width="600" height="300"/> 
 </p>
 <br />
 
