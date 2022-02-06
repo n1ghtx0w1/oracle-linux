@@ -12,7 +12,7 @@
 
 <br />
 
-## Start by downloading the tools:
+## Start by downloading the tools
 
 Locate the appropriate Oracle Linux ISO, [download], for your setup.
 
@@ -23,7 +23,7 @@ Install Virtualbox _**(Again, skip if you already have)**_
 ---
 <br />
 
-## Install Oracle Linux in VirtualBox:
+## Install Oracle Linux in VirtualBox
 
 You'll want to begin by opening up Virtualbox.  Click **new** as outlined with a *red circle* below.
 
@@ -210,6 +210,321 @@ You should observe the ISO image populated into the **Controller IDE** now.
 </p>
 <br />
 
+## Network
+
+You may need to adjust this, but remember **wifi** will not be accessible using Oracle Linux by default.
+
+<br />
+<p align="center">
+<img src="assets/img/16.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+From here I will select **General** on the left, and **Ok** at the bottom to conclude my initial settings.
+
+<br />
+<p align="center">
+<img src="assets/img/18.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+---
+
+## Start Installation Process
+
+Click **Start** at the top to start the virtual machine, and begin our installation process.
+
+<br />
+<p align="center">
+<img src="assets/img/19.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Install Oracle Linux 8.5.0
+
+<br />
+<p align="center">
+<img src="assets/img/20.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+You should see the installer initialize.
+
+<br />
+<p align="center">
+<img src="assets/img/21.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+---
+
+## Welcome to Oracle Linux
+
+Select your language, and **Continue** as circled in the image below.
+
+<br />
+<p align="center">
+<img src="assets/img/22.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+**Installation Summary**
+
+We'll navigate some of these options to set up for our use case.
+
+<br />
+<p align="center">
+<img src="assets/img/23.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Starting here with **Root Password**.
+
+<br />
+<p align="center">
+<img src="assets/img/24.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Make sure to create a strong password.
+
+<br />
+<p align="center">
+<img src="assets/img/25.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Next **Software Selection**.
+
+<br />
+<p align="center">
+<img src="assets/img/26.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+For testing purposes I'm just doing **workstation**, but feel free to experiment and use what you may want to test software wise here. There are lots of selections to choose from.
+
+<br />
+<p align="center">
+<img src="assets/img/27.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+After making your selections, select **Done** as shown in the image below.
+
+<br />
+<p align="center">
+<img src="assets/img/29.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Then onto **Installation Destination**.
+
+<br />
+<p align="center">
+<img src="assets/img/30.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+You'll want to make sure that the hard disk selected is blue and has the **check** mark as seen in the image below.
+
+<br />
+<p align="center">
+<img src="assets/img/31.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Then select **Done**.
+
+<br />
+<p align="center">
+<img src="assets/img/32.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Next navigate over to **Security Policy**.
+
+<br />
+<p align="center">
+<img src="assets/img/33.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Here you can select a **security policy**.
+
+<br />
+<p align="center">
+<img src="assets/img/34.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+For now I will select **OFF** at **Apply security policy**.
+
+<br />
+<p align="center">
+<img src="assets/img/35.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+`Important` Network, by default, will not automatically connect to ethernet if you do not select this option and enable it.
+
+<br />
+<p align="center">
+<img src="assets/img/36.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Make sure to enable this option circled below by selecting **ON** for ethernet.  If you do not do this you will need to do it after installation, or manually connect each time.
+
+<br />
+<p align="center">
+<img src="assets/img/37.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Then select **Done**.
+
+<br />
+<p align="center">
+<img src="assets/img/38.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+---
+
+## Begin Installation
+
+It's time to begin the installation, when you are done going through the selections, and setting up.
+
+<br />
+<p align="center">
+<img src="assets/img/39.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+This will take some time depending on the choices you made prior. You will want to click **Reboot System** as circled below, when the **Installation Progress** is complete.
+
+<br />
+<p align="center">
+<img src="assets/img/40.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+You'll have the following selections after the system reboot:
+- Licensing
+    - License Information
+- User Settings
+    - User Creation
+
+We'll go into **Licensing** first.
+
+<br />
+<p align="center">
+<img src="assets/img/41.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+You'll need to accept the agreement before proceeding. You may wish to read the licensing here as well.
+
+<br />
+<p align="center">
+<img src="assets/img/42.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Select **Done** to exit the licensing.
+
+<br />
+<p align="center">
+<img src="assets/img/43.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Next we will select **User Creation**.
+
+<br />
+<p align="center">
+<img src="assets/img/44.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Setup your user credentials here.  I'm making this user an **administrator** for testing purposes. I've also selected to **require password** for this user. 
+
+Select **Done** as circled below when finished.
+
+<br />
+<p align="center">
+<img src="assets/img/45.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+Now **Finish Configuration**.
+
+<br />
+<p align="center">
+<img src="assets/img/46.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+---
+
+## Login
+
+Login with the user you created.
+
+<br />
+<p align="center">
+<img src="assets/img/47.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+<br />
+<p align="center">
+<img src="assets/img/48.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+You should be greeted by the desktop environment, if you selected a *GUI* install environment.
+
+<br />
+<p align="center">
+<img src="assets/img/49.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+The gnome-initial-setup may also appear depending on your choices.  
+
+<br />
+<p align="center">
+<img src="assets/img/50.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+<br />
+<p align="center">
+<img src="assets/img/51.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+<br />
+<p align="center">
+<img src="assets/img/52.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+<br />
+<p align="center">
+<img src="assets/img/53.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
+
+After selecting your options you are done, and ready to further use Oracle Linux.  
+
+<br />
+<p align="center">
+<img src="assets/img/54.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
+</p>
+<br />
 
 ---
 
