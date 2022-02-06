@@ -506,6 +506,8 @@ The gnome-initial-setup may also appear depending on your choices.
 </p>
 <br />
 
+Highlighted in **yellow** here, I show that, I turn off location services. This is something you need to decide for your own use case. What I am doing does not require this feature.
+
 <br />
 <p align="center">
 <img src="assets/img/52.png" alt="linux" width="600" height="300"/> </a>&nbsp; &nbsp; 
